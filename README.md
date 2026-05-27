@@ -103,5 +103,20 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 Thus, the **DAC was interfaced with 8086** and different **waveforms** were successfully generated.
 
 
+.
+
+
+
+.
+
+
+.
+
+
+
+
+.
+
+
 
 
