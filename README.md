@@ -120,3 +120,11 @@ Thus, the **DAC was interfaced with 8086** and different **waveforms** were succ
 
 
 
+
+
+
+
+'
+
+
+
